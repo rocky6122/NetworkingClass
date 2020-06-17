@@ -1,0 +1,2 @@
+1. Hitting escape will sometimes launch user back through lobbyState() function
+2. Starting a networked game only works with the first 2 people to join the server.

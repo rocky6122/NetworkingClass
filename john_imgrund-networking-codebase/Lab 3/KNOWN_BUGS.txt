@@ -1,0 +1,6 @@
+KNOWN BUGS
+
+10/1/2018
+* Change all commands to reflect the new game
+* Event Manager: remember to static_cast<> all events
+* Everytime we create a file in the source folder when the project builds it moves the files location

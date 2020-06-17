@@ -1,0 +1,5 @@
+﻿  egp-raknet-console-main.cpp
+c:\users\john.imgrund\desktop\hg\dan networking base\lab 2\source\egp-raknet-console\egp-raknet-console-main.cpp(254): warning C4018: '<': signed/unsigned mismatch
+c:\users\john.imgrund\desktop\hg\dan networking base\lab 2\source\egp-raknet-console\egp-raknet-console-main.cpp(287): warning C4244: '=': conversion from 'RakNet::Time' to 'int', possible loss of data
+c:\users\john.imgrund\desktop\hg\dan networking base\lab 2\source\egp-raknet-console\egp-raknet-console-main.cpp(397): warning C4244: '=': conversion from 'RakNet::Time' to 'int', possible loss of data
+  egp-raknet-console.vcxproj -> C:\Users\john.imgrund\Desktop\Hg\Dan Networking Base\Lab 2\bin\x86\v141\Debug\egp-raknet-console.exe
